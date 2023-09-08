@@ -4,7 +4,7 @@ header {
 }
 
 html {
-  background-color: beige;
+  background-color: aqua;
 }
 
 body {
@@ -38,7 +38,7 @@ h4 {
 }
 
 .box {
-  width: 500px;
+  width: 50%;
   height: 800px;
   padding: 100px;
   border: 10px solid #1096c2;
@@ -64,4 +64,26 @@ h1 {
 
 p {
   font-size: larger;
+}
+
+footer {
+  overflow: hidden;
+  background-color: #1096c2;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  padding: 15px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+.button {
+  font-size: large;
+  background-color: yellow;
+  color: black;
+}
+
+.homepic {
+  padding-inline: 12%;
 }
