@@ -87,3 +87,21 @@ footer {
 .homepic {
   padding-inline: 12%;
 }
+
+.box2 {
+  width: 50%;
+  height: 100%;
+  padding: 70px;
+  border: 10px solid #1096c2;
+  margin: auto;
+  display: block;
+
+  background-color: lightgreen;
+}
+
+h2 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 0px;
+  text-decoration: underline;
+}
