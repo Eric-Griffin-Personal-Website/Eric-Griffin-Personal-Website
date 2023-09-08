@@ -105,3 +105,12 @@ h2 {
   padding: 0px;
   text-decoration: underline;
 }
+
+.box3 {
+  background-color: aqua;
+  display: flexbox;
+  border-style: dotted;
+  margin: 5px;
+
+  padding: 5px;
+}
