@@ -43,7 +43,7 @@ h4 {
   padding: 100px;
   border: 10px solid #1096c2;
   margin: auto;
-  display: inline-flexbox;
+  display: grid;
   justify-content: center;
   background-color: lightgreen;
 }
