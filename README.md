@@ -4,7 +4,7 @@ This is my first major website project. It is a mock portfolio page.
 
 The webpage consists of a Homepage with a persistent navigation bar that links to an About page and a Portfolio page and a Contact page. I also added a Form Submitted page that the user is redirected to when the click the submit button on the form.
 
-Each page has a persistent footer than contains a button that causes the "Hello World" alter pop-up when clicked except for the Form Submitted page.
+Each page has a persistent footer than contains a button that causes the "Hello World" alert pop-up when clicked except for the Form Submitted page.
 
 The Home page features a central box with a brief description, a quote, and a picture.
 
@@ -18,4 +18,4 @@ The Form Submitted Page has a message for the user and a link to go back to the 
 
 I built each page in HTML, each having it's own .html file. I used a single .css file to style each page, and I linked it to each html document.
 
-I have one JavaScript file that contains script for the button function.
+I have one JavaScript file that contains script for the "Hello World" pop-up button function.
