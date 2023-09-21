@@ -16,6 +16,32 @@
         <a href="index.html">Home</a>
       </div>
     </header>
+    <article>
+      <div class="box2">
+        <p>
+          If you would like to commission my services, leave your information
+          below and a brief description of what you would like me to create for
+          you:
+        </p>
+        <form>
+          <input type="text" value="First Name" />
+          <label for="First Name">First Name</label>
+        </form>
+        <form>
+          <input type="text" value="Last Name" />
+          <label for="Last Name">Last Name</label>
+        </form>
+        <form>
+          <input type="email" value="Email" />
+          <label for="email">Email</label>
+        </form>
+        <textarea id="freeform" name="freeform" rows="4" cols="50"> </textarea>
+
+        <form method="POST" action="success.html">
+          <input type="submit" value="Submit" />
+        </form>
+      </div>
+    </article>
     <footer>
       <button onclick="AlertFunction()" class="button">
         Click me for an important message!
