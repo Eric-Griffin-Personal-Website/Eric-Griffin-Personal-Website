@@ -94,7 +94,7 @@ footer {
   padding: 70px;
   border: 10px solid #1096c2;
   margin: auto;
-  display: block;
+  display: grid;
 
   background-color: lightgreen;
 }
