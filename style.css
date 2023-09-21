@@ -4,7 +4,7 @@ header {
 }
 
 html {
-  background-color: aqua;
+  background-color: aqua !important;
 }
 
 body {
@@ -113,4 +113,8 @@ h2 {
   margin: 5px;
 
   padding: 5px;
+}
+
+a:hover {
+  color: yellow;
 }
